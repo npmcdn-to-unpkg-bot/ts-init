@@ -5,7 +5,7 @@
 ## npm install                                     
 Instaluje node_modules
 ## typings install dt~es6-shim --save --global     
-Instaluje s6-shim (zapewnienie kompatybilnosci starszych silników JavaScript)
+Instaluje es6-shim (zapewnienie kompatybilnosci starszych silników JavaScript)
 
 ## tsc                                             
 Kompiluje typescript 
